@@ -6,6 +6,7 @@ header {
 background-color: black;
 color: rgb(15, 97, 15);
 }
+/*Adding color and font family to the body of the webpage */
 body {
   background-color: rgb(15, 97, 15);
   font-family: 'Times New Roman', Arial, sans-serif;
@@ -37,6 +38,7 @@ header p {
   padding-bottom: 20px;
   margin-top: 0px;
 }
+/* Adding color to the links, which changes based on what happens*/
 a:link {color: purple; }
 a:visited {color: green; }
 a:hover {color: red; }
@@ -56,9 +58,11 @@ hr {
   height: 2px;
 
 }
+/* Monving text to the right */
 .move-right{
   margin-left: 20px;
 }
+/* centering the profilepic.jpg */
 .imageContainer {
   text-align: center;
 }
